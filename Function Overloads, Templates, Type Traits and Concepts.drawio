@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-08T15:58:17.679Z" agent="5.0 (Windows)" etag="e7dQv6LBi1ycyybtXPGP" version="14.4.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-03-08T16:00:50.042Z" agent="5.0 (Windows)" etag="OzZaMgk0wMjbfucxsAUx" version="14.4.3" type="github" pages="3">
   <diagram id="h5T7eMwQmIYTKPBjK1Yb" name="Overloads">
-    <mxGraphModel dx="897" dy="609" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1021" dy="609" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -56,6 +56,20 @@
             <mxPoint x="250" y="259.5" as="sourcePoint" />
             <mxPoint x="330" y="259.5" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="SP9uPXPjS7H55BPtFPK9" name="Type Traits">
+    <mxGraphModel dx="1021" dy="609" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+      <root>
+        <mxCell id="6twNokmm-uvk7p2Ly_mb-0" />
+        <mxCell id="6twNokmm-uvk7p2Ly_mb-1" parent="6twNokmm-uvk7p2Ly_mb-0" />
+        <mxCell id="6twNokmm-uvk7p2Ly_mb-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="6twNokmm-uvk7p2Ly_mb-1">
+          <mxGeometry x="550" y="40" width="410" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6twNokmm-uvk7p2Ly_mb-2" value="&lt;font style=&quot;font-size: 22px&quot;&gt;Type Traits&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="6twNokmm-uvk7p2Ly_mb-1">
+          <mxGeometry x="670" y="60" width="170" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
