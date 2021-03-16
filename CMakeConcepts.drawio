@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-03-16T07:51:05.766Z" agent="5.0 (Windows)" etag="eDJw6qoF8VM45IyxRfN_" version="14.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-16T07:58:32.090Z" agent="5.0 (Windows)" etag="fQyK4obgqmu6TpaEpq6-" version="14.4.8" type="github">
   <diagram id="5c0vTmHrscncdPuWYxD0" name="Page-1">
     <mxGraphModel dx="1038" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="5-MKXrLHc6Z83awF3s98-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="522.43" y="1910" width="720" height="70" as="geometry" />
+          <mxGeometry x="514.93" y="1910" width="720" height="70" as="geometry" />
         </mxCell>
         <mxCell id="LzeXuOooPPnK6IAznrLY-8" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#000000;arcSize=2;align=left;" parent="1" vertex="1">
           <mxGeometry x="285" y="440" width="500" height="1010" as="geometry" />
@@ -41,7 +41,7 @@
           <mxGeometry x="755" y="100" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="5-MKXrLHc6Z83awF3s98-1" value="&lt;div align=&quot;left&quot;&gt;&lt;ul style=&quot;font-size: 21px&quot;&gt;&lt;li&gt;&lt;font style=&quot;font-size: 21px&quot;&gt;Concepts&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 21px&quot;&gt;Compilation on terminal&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;div&gt;&lt;font style=&quot;font-size: 21px&quot;&gt;Scripts (bash,python,batch)&lt;/font&gt;&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 21px&quot;&gt;Build systems (msbuild, makefiles, XCode Generator,...)&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 21px&quot;&gt;CMake is a Meta Build System&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 21px&quot;&gt;Installing CMake&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 21px&quot;&gt;Goals &lt;br&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 21px&quot;&gt;Cross platform app dev with C++ and CMake&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 21px&quot;&gt;Tools : VSCode, on Windows and Linux&lt;br&gt;&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;font style=&quot;font-size: 21px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="507.5" y="2250" width="625" height="240" as="geometry" />
+          <mxGeometry x="520" y="2450" width="625" height="240" as="geometry" />
         </mxCell>
         <mxCell id="5-MKXrLHc6Z83awF3s98-2" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.visual_studio_online;" vertex="1" parent="1">
           <mxGeometry x="560.43" y="1664.5" width="140" height="110" as="geometry" />
