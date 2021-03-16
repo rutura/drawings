@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-16T08:17:59.660Z" agent="5.0 (Windows)" etag="kuhpF9_NclXxjoaGiUo-" version="14.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-16T08:20:53.352Z" agent="5.0 (Windows)" etag="fh9UEodf5Mb6SvqWqCGv" version="14.4.8" type="github">
   <diagram id="5c0vTmHrscncdPuWYxD0" name="Page-1">
-    <mxGraphModel dx="2692" dy="3025" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+    <mxGraphModel dx="3144" dy="5321" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -47,13 +47,13 @@
           <mxGeometry x="-289.99999999999994" y="30" width="625" height="240" as="geometry" />
         </mxCell>
         <mxCell id="5-MKXrLHc6Z83awF3s98-2" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.visual_studio_online;" vertex="1" parent="1">
-          <mxGeometry x="-314.5" y="-2222" width="140" height="110" as="geometry" />
+          <mxGeometry x="-318.78" y="-2172" width="140" height="110" as="geometry" />
         </mxCell>
         <mxCell id="5-MKXrLHc6Z83awF3s98-3" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#EF8F21;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.linux;" vertex="1" parent="1">
-          <mxGeometry x="-57.5" y="-2225.5" width="130" height="117" as="geometry" />
+          <mxGeometry x="-61.78" y="-2175.5" width="130" height="117" as="geometry" />
         </mxCell>
         <mxCell id="5-MKXrLHc6Z83awF3s98-4" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/isuite/PNG/XCode.png" vertex="1" parent="1">
-          <mxGeometry x="195.06999999999994" y="-2240" width="128" height="128" as="geometry" />
+          <mxGeometry x="190.78999999999994" y="-2190" width="128" height="128" as="geometry" />
         </mxCell>
         <mxCell id="5-MKXrLHc6Z83awF3s98-5" value="&lt;font style=&quot;font-size: 22px&quot; color=&quot;#FFFFFF&quot;&gt;cl.exe /Zi /std:c++latest /EHsc /Fe: rooster.exe main.cpp&amp;nbsp;&amp;nbsp; &lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-327.5" y="-1951.5" width="655" height="20" as="geometry" />
@@ -63,6 +63,12 @@
         </mxCell>
         <mxCell id="5-MKXrLHc6Z83awF3s98-8" value="&lt;font style=&quot;font-size: 22px&quot; color=&quot;#FFFFFF&quot;&gt;g++ -g -std=c++20 main.cpp -o rooster&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-284.93000000000006" y="-1811.5" width="505" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5-MKXrLHc6Z83awF3s98-10" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="-61.78" y="-2340" width="116" height="116" as="geometry" />
+        </mxCell>
+        <mxCell id="5-MKXrLHc6Z83awF3s98-11" value="&lt;font style=&quot;font-size: 38px&quot; color=&quot;#FFFFFF&quot;&gt;C++&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-23.78" y="-2292" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
